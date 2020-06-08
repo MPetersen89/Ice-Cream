@@ -1,12 +1,12 @@
-# _Title_
+# _Ice Cream_
 
-#### _Short Description, current date or date of latest version_
+#### _simple project to demonstrate use of arrays in HTML, 6/8/2020_
 
-#### By _**Author Names**_
+#### By _**Michael Petersen, Janet Karpenske**_
 
 ## Description
 
-_Detailed Description of project_
+_This is an HTML page which uses javascript to practice creating an array of different ice cream flavors and then printing them out as a list._
 
 ## Setup/Installation Requirements
 
@@ -16,8 +16,8 @@ Open by downloading:
 
 Open via Bash/GitBash:
 1. Clone this repository onto your computer:
-`git clone https://github.com/MPetersen89/ProjectName`
-2. Navigate into the `ProjectName` directory in Visual Studio Code or preferred text editor
+`git clone https://github.com/MPetersen89/Ice-Cream`
+2. Navigate into the `Ice-Cream` directory in Visual Studio Code or preferred text editor
 `code .`
 3. Open index.html in Chrome or preferred browser:
 `open index.html`
@@ -26,11 +26,12 @@ Open via Bash/GitBash:
 
 ## Known Bugs
 
-_List of current bugs present in current build_
+_No known bugs at this time_
 
 ## Support and contact details
 
-_name and email of contributers_
+Michael Petersen <michael_petersen_email@yahoo.com>
+Janet Karpenske <janetkarpenske@gmail.com>
 
 ## Technologies Used
 
@@ -45,4 +46,4 @@ _name and email of contributers_
 
 MIT - License
 
-Copyright (c) 2020 **_Author Names_**
+Copyright (c) 2020 **_Janet Karpenske & Michael Petersen_**
